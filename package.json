@@ -1,6 +1,6 @@
 {
   "name": "dpk-imagemin-mozjpeg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Forked version of https://www.npmjs.com/package/imagemin-mozjpeg but with mozjpeg dependency updated from ^5.0.0 to ^6.0.0",
   "license": "MIT",
   "repository": "DarkPotatoKing/imagemin-mozjpeg",
