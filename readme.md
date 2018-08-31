@@ -1,4 +1,4 @@
-# imagemin-mozjpeg [![Build Status](https://travis-ci.org/imagemin/imagemin-mozjpeg.svg?branch=master)](https://travis-ci.org/imagemin/imagemin-mozjpeg) [![Build status](https://ci.appveyor.com/api/projects/status/uuh7yi48erf4ykyo?svg=true)](https://ci.appveyor.com/project/ShinnosukeWatanabe/imagemin-mozjpeg)
+# dpk-imagemin-mozjpeg
 
 > Forked version of https://www.npmjs.com/package/imagemin-mozjpeg but with mozjpeg dependency updated from ^5.0.0 to ^6.0.0
 
