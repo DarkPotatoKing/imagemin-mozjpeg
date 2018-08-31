@@ -1,25 +1,14 @@
 {
-  "name": "imagemin-mozjpeg",
-  "version": "7.0.0",
-  "description": "Imagemin plugin for mozjpeg",
+  "name": "dpk-imagemin-mozjpeg",
+  "version": "1.0.0",
+  "description": "Forked version of https://www.npmjs.com/package/imagemin-mozjpeg but with mozjpeg dependency updated from ^5.0.0 to ^6.0.0",
   "license": "MIT",
-  "repository": "imagemin/imagemin-mozjpeg",
+  "repository": "DarkPotatoKing/imagemin-mozjpeg",
   "author": {
-    "name": "Kevin Mårtensson",
-    "email": "kevinmartensson@gmail.com",
-    "url": "github.com/kevva"
+    "name": "Kyle Rosales",
+    "email": "kyle.rosales97@gmail.com",
+    "url": "github.com/DarkPotatoKing"
   },
-  "maintainers": [
-    {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "sindresorhus.com"
-    },
-    {
-      "name": "Shinnosuke Watanabe",
-      "url": "github.com/shinnn"
-    }
-  ],
   "engines": {
     "node": ">=4"
   },
@@ -43,7 +32,7 @@
   "dependencies": {
     "execa": "^0.8.0",
     "is-jpg": "^1.0.0",
-    "mozjpeg": "^5.0.0"
+    "mozjpeg": "^6.0.0"
   },
   "devDependencies": {
     "ava": "*",
