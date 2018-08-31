@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install imagemin-mozjpeg
+$ npm install dpk-imagemin-mozjpeg
 ```
 
 
@@ -14,7 +14,7 @@ $ npm install imagemin-mozjpeg
 
 ```js
 const imagemin = require('imagemin');
-const imageminMozjpeg = require('imagemin-mozjpeg');
+const imageminMozjpeg = require('dpk-imagemin-mozjpeg');
 
 (async () => {
 	await imagemin(['images/*.jpg'], 'build/images', {
